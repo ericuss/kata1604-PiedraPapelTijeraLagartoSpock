@@ -1,0 +1,13 @@
+C:\Projects\Node\kata1604-PiedraPapelTijeraLagartoSpock\NetApp\Test\App\App.Spsls.Test\bin\Debug\App.Spsls.Test.dll
+C:\Projects\Node\kata1604-PiedraPapelTijeraLagartoSpock\NetApp\Test\App\App.Spsls.Test\bin\Debug\App.Spsls.Test.pdb
+C:\Projects\Node\kata1604-PiedraPapelTijeraLagartoSpock\NetApp\Test\App\App.Spsls.Test\bin\Debug\App.Core.dll
+C:\Projects\Node\kata1604-PiedraPapelTijeraLagartoSpock\NetApp\Test\App\App.Spsls.Test\bin\Debug\App.Models.dll
+C:\Projects\Node\kata1604-PiedraPapelTijeraLagartoSpock\NetApp\Test\App\App.Spsls.Test\bin\Debug\App.Spsls.dll
+C:\Projects\Node\kata1604-PiedraPapelTijeraLagartoSpock\NetApp\Test\App\App.Spsls.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\Node\kata1604-PiedraPapelTijeraLagartoSpock\NetApp\Test\App\App.Spsls.Test\bin\Debug\App.Core.pdb
+C:\Projects\Node\kata1604-PiedraPapelTijeraLagartoSpock\NetApp\Test\App\App.Spsls.Test\bin\Debug\App.Spsls.pdb
+C:\Projects\Node\kata1604-PiedraPapelTijeraLagartoSpock\NetApp\Test\App\App.Spsls.Test\bin\Debug\App.Models.pdb
+C:\Projects\Node\kata1604-PiedraPapelTijeraLagartoSpock\NetApp\Test\App\App.Spsls.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Projects\Node\kata1604-PiedraPapelTijeraLagartoSpock\NetApp\Test\App\App.Spsls.Test\obj\Debug\App.Spsls.Test.csprojResolveAssemblyReference.cache
+C:\Projects\Node\kata1604-PiedraPapelTijeraLagartoSpock\NetApp\Test\App\App.Spsls.Test\obj\Debug\App.Spsls.Test.dll
+C:\Projects\Node\kata1604-PiedraPapelTijeraLagartoSpock\NetApp\Test\App\App.Spsls.Test\obj\Debug\App.Spsls.Test.pdb

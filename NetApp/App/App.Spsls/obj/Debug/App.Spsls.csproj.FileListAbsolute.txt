@@ -1,0 +1,11 @@
+C:\Projects\Node\kata1604-PiedraPapelTijeraLagartoSpock\NetApp\App\App.Spsls\bin\Debug\App.Spsls.dll
+C:\Projects\Node\kata1604-PiedraPapelTijeraLagartoSpock\NetApp\App\App.Spsls\bin\Debug\App.Spsls.pdb
+C:\Projects\Node\kata1604-PiedraPapelTijeraLagartoSpock\NetApp\App\App.Spsls\bin\Debug\App.Common.dll
+C:\Projects\Node\kata1604-PiedraPapelTijeraLagartoSpock\NetApp\App\App.Spsls\bin\Debug\App.Core.dll
+C:\Projects\Node\kata1604-PiedraPapelTijeraLagartoSpock\NetApp\App\App.Spsls\bin\Debug\App.Models.dll
+C:\Projects\Node\kata1604-PiedraPapelTijeraLagartoSpock\NetApp\App\App.Spsls\bin\Debug\App.Common.pdb
+C:\Projects\Node\kata1604-PiedraPapelTijeraLagartoSpock\NetApp\App\App.Spsls\bin\Debug\App.Models.pdb
+C:\Projects\Node\kata1604-PiedraPapelTijeraLagartoSpock\NetApp\App\App.Spsls\bin\Debug\App.Core.pdb
+C:\Projects\Node\kata1604-PiedraPapelTijeraLagartoSpock\NetApp\App\App.Spsls\obj\Debug\App.Spsls.csprojResolveAssemblyReference.cache
+C:\Projects\Node\kata1604-PiedraPapelTijeraLagartoSpock\NetApp\App\App.Spsls\obj\Debug\App.Spsls.dll
+C:\Projects\Node\kata1604-PiedraPapelTijeraLagartoSpock\NetApp\App\App.Spsls\obj\Debug\App.Spsls.pdb

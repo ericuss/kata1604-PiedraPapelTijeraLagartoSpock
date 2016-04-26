@@ -1,0 +1,5 @@
+C:\Projects\Node\kata1604-PiedraPapelTijeraLagartoSpock\NetApp\Infrastructure\App.Common\bin\Debug\App.Common.dll
+C:\Projects\Node\kata1604-PiedraPapelTijeraLagartoSpock\NetApp\Infrastructure\App.Common\bin\Debug\App.Common.pdb
+C:\Projects\Node\kata1604-PiedraPapelTijeraLagartoSpock\NetApp\Infrastructure\App.Common\obj\Debug\App.Common.csprojResolveAssemblyReference.cache
+C:\Projects\Node\kata1604-PiedraPapelTijeraLagartoSpock\NetApp\Infrastructure\App.Common\obj\Debug\App.Common.dll
+C:\Projects\Node\kata1604-PiedraPapelTijeraLagartoSpock\NetApp\Infrastructure\App.Common\obj\Debug\App.Common.pdb

@@ -1,0 +1,11 @@
+C:\Projects\Node\kata1604-PiedraPapelTijeraLagartoSpock\NetApp\Test\App\App.Core.Test\bin\Debug\App.Core.Test.dll
+C:\Projects\Node\kata1604-PiedraPapelTijeraLagartoSpock\NetApp\Test\App\App.Core.Test\bin\Debug\App.Core.Test.pdb
+C:\Projects\Node\kata1604-PiedraPapelTijeraLagartoSpock\NetApp\Test\App\App.Core.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\Node\kata1604-PiedraPapelTijeraLagartoSpock\NetApp\Test\App\App.Core.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Projects\Node\kata1604-PiedraPapelTijeraLagartoSpock\NetApp\Test\App\App.Core.Test\obj\Debug\App.Core.Test.csprojResolveAssemblyReference.cache
+C:\Projects\Node\kata1604-PiedraPapelTijeraLagartoSpock\NetApp\Test\App\App.Core.Test\obj\Debug\App.Core.Test.dll
+C:\Projects\Node\kata1604-PiedraPapelTijeraLagartoSpock\NetApp\Test\App\App.Core.Test\obj\Debug\App.Core.Test.pdb
+C:\Projects\Node\kata1604-PiedraPapelTijeraLagartoSpock\NetApp\Test\App\App.Core.Test\bin\Debug\App.Core.dll
+C:\Projects\Node\kata1604-PiedraPapelTijeraLagartoSpock\NetApp\Test\App\App.Core.Test\bin\Debug\App.Models.dll
+C:\Projects\Node\kata1604-PiedraPapelTijeraLagartoSpock\NetApp\Test\App\App.Core.Test\bin\Debug\App.Core.pdb
+C:\Projects\Node\kata1604-PiedraPapelTijeraLagartoSpock\NetApp\Test\App\App.Core.Test\bin\Debug\App.Models.pdb
